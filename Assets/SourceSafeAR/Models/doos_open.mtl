@@ -1,0 +1,24 @@
+# Blender MTL File: 'doos_open.blend'
+# Material Count: 2
+
+newmtl Asset_1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/lizanne/Liz Spul/01 Design Work/01 Stroetenga/05 Other/10 Stagiares/3D objects/blender/Asset 1.png
+map_d /Users/lizanne/Liz Spul/01 Design Work/01 Stroetenga/05 Other/10 Stagiares/3D objects/blender/Asset 1.png
+
+newmtl cardboard
+Ns 81.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.334326 0.211533 0.075333
+Ks 0.651786 0.651786 0.651786
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

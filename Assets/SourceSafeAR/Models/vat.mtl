@@ -1,0 +1,24 @@
+# Blender MTL File: 'vat.blend'
+# Material Count: 2
+
+newmtl Asset_40
+Ns 699.842977
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.354545 0.354545 0.354545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/lizanne/Liz Spul/01 Design Work/01 Stroetenga/05 Other/10 Stagiares/3D objects/blender/Asset 40.png
+map_d /Users/lizanne/Liz Spul/01 Design Work/01 Stroetenga/05 Other/10 Stagiares/3D objects/blender/Asset 40.png
+
+newmtl drum
+Ns 497.087302
+Ka 0.531818 0.531818 0.531818
+Kd 0.461418 0.222378 0.044459
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3

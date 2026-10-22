@@ -1,0 +1,81 @@
+# ---------------------------------------------------------------
+# Unity (gebaseerd op github/gitignore Unity.gitignore)
+# ---------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity-gegenereerde debug-info (niet meeleveren)
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Asset Store tools
+/[Aa]ssets/AssetStoreTools*
+
+# Addressables / StreamingAssets build-output
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Plastic SCM-plugin en -werkruimte (repo zat eerder in Plastic)
+/[Aa]ssets/Plugins/PlasticSCM*
+/.plastic/
+/ignore.conf
+*.private
+*.private.meta
+*.private.[0-9]*
+
+# Unity tijdelijke tools-cache
+/.utmp/
+
+# Editors / IDE's
+.vs/
+.vscode/
+.idea/
+.consulo/
+.gradle/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash-/systeemrapporten
+sysinfo.txt
+crashlytics-build.properties
+mono_crash.*
+
+# Builds
+*.apk
+*.aab
+*.app
+*.ipa
+*.unitypackage
+*.unitypackage.meta
+
+# Unity bestandswatcher
+~UnityDirMonSyncFile~*
+
+# Besturingssysteem
+.DS_Store*
+Thumbs.db
+Desktop.ini
